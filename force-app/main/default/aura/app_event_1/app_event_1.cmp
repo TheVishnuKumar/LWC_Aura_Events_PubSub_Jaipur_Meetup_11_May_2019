@@ -1,0 +1,16 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <!-- Declaring Attribute -->
+    <aura:attribute name="data" type="String" />
+
+    <!-- Handling Event -->
+    <aura:handler event="c:appEvent" action="{!c.doHandleAppEvent}" />
+
+    <div style="background: white;padding: 50px;border: 1px solid #dddbda;border-radius: .25rem;
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);margin-top: 10px;">
+        <h1 style="font-size: 15px;font-weight: bold;">Application Event 1: Handling Event</h1>
+
+        <!-- Showing Event Data -->
+        <br />
+        <b>Data= </b> {!v.data}
+    </div>
+</aura:component>

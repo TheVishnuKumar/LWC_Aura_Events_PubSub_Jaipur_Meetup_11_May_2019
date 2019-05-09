@@ -1,0 +1,17 @@
+<template>
+    <div
+        style="background: white;padding: 50px;border: 1px solid #dddbda;border-radius: .25rem;box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);margin-top: 10px;">
+        <h1 style="font-size: 15px;font-weight: bold;">CMP Event 2: Handling Event</h1>
+
+        <!-- Showing Event Data -->
+        <br />
+        <b>Data= </b> {data}
+
+        <div ontesteventtwo={handleTestEventOuterOuter}>
+            <div ontesteventtwo={handleTestEventOuter}>
+                <!-- Adding Component 3 as child -->
+                <c-lwc_comp_event_3 ontesteventtwo={handleTestEvent}></c-lwc_comp_event_3>
+            </div>
+        </div>
+    </div>
+</template>
