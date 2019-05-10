@@ -27,3 +27,11 @@ Screenshots of the demo
 
 **5. LWC to Aura PubSub Events**
 <img src="https://raw.githubusercontent.com/TheVishnuKumar/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/master/LWC%20to%20Aura%20PubSub%20Events.png"/>
+
+Bonus
+------
+Here is link of 
+<a href="https://github.com/TheVishnuKumar/one-pub-sub-lwc">
+  <b>One PubSub: A Declarative PubSub Library for Lightning Web Component and Aura Component</b>
+</a>
+
