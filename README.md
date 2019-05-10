@@ -10,7 +10,9 @@ This repositary contains demos of all types of events in Aura and LWC. It does h
 4. LWC to LWC PubSub Events
 5. LWC to Aura PubSub Events
 
-Here are the screenshots of the demo:
+Screenshots of the demo
+-------------
+
 **1. Aura Component Events**
 <img src="https://raw.githubusercontent.com/TheVishnuKumar/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/master/Aura%20Component%20Events.png"/>
 
