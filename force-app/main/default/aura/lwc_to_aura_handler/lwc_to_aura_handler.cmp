@@ -1,0 +1,16 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+    <!-- Declaring Attribute -->
+    <aura:attribute name="data" type="String" />
+
+    <div
+        style="background: white;padding: 50px;border: 1px solid #dddbda;border-radius: .25rem;box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);margin-top: 10px;">
+        <h1 style="font-size: 15px;font-weight: bold;">Aura Component: Handling Event</h1>
+
+        <!-- Showing Event Data -->
+        <br />
+        <b>Data= </b> {!v.data}
+
+        <!-- Adding LWC Component as child -->
+        <c:lwc_to_aura_publisher oneventforaura="{!c.doHandleCompEvent}"></c:lwc_to_aura_publisher>
+    </div>
+</aura:component>

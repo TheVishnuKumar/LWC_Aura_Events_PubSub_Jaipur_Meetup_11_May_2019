@@ -11,6 +11,9 @@
             ],
             "c/lwc_comp_event_3": [
                 "lwc_comp_event_3/lwc_comp_event_3.js"
+            ],
+            "c/lwc_to_aura_publisher": [
+                "lwc_to_aura_publisher/lwc_to_aura_publisher.js"
             ]
         }
     },
