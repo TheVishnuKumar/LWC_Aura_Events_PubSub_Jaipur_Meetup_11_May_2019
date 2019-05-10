@@ -1,13 +1,13 @@
 <aura:component implements="flexipage:availableForAllPageTypes" access="global">
+
     <!-- Declaring Attribute -->
     <aura:attribute name="data" type="String" />
 
-    <!-- Handling Event -->
-    <aura:handler event="c:appEvent" action="{!c.doHandleAppEvent}" />
+    <c:auraPubsub aura:id="pubsub" onready="{!c.registerListener}"></c:auraPubsub>
 
     <div style="background: white;padding: 50px;border: 1px solid #dddbda;border-radius: .25rem;
-        box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);margin-top: 10px;min-height: 170px;">
-        <h1 style="font-size: 15px;font-weight: bold;">Application Event 1: Handling Event</h1>
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);min-height: 170px;margin-top: 10px;">
+        <h1 style="font-size: 15px;font-weight: bold;">LWC-Aura PubSub Publisher: Handling Event</h1>
 
         <!-- Showing Event Data -->
         <br />

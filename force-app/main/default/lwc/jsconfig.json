@@ -23,6 +23,12 @@
             ],
             "c/pubsub": [
                 "pubsub/pubsub.js"
+            ],
+            "c/auraPubsub": [
+                "auraPubsub/auraPubsub.js"
+            ],
+            "c/lwc_to_aura_pubsub_publisher": [
+                "lwc_to_aura_pubsub_publisher/lwc_to_aura_pubsub_publisher.js"
             ]
         }
     },

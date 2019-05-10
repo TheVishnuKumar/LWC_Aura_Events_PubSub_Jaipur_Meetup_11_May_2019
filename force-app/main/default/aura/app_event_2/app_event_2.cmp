@@ -1,7 +1,7 @@
 <aura:component implements="flexipage:availableForAllPageTypes" access="global">
     <aura:registerEvent name='appEvent' type='c:appEvent' />
     
-    <div style="background: white;padding: 50px;border: 1px solid #dddbda;border-radius: .25rem;box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);margin-top: 10px;">
+    <div style="background: white;padding: 50px;border: 1px solid #dddbda;border-radius: .25rem;box-shadow: 0 2px 2px 0 rgba(0,0,0,.1);min-height: 170px;margin-top: 10px;">
         <h1 style="font-size: 15px;font-weight: bold;">Application Event 2: Firing Event</h1>
 
         <lightning:button label="Fire Application Event for CMP 1" class="slds-m-top--medium" variant="brand"
