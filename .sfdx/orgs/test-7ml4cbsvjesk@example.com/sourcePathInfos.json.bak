@@ -58,15 +58,15 @@
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1557467346284,
             "changeTime": 1557467346284,
-            "isWorkspace": false,
-            "contentHash": "9101f70a92333ed6cb093a59f1e3496695c91c06"
+            "contentHash": "9101f70a92333ed6cb093a59f1e3496695c91c06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -353,11 +353,11 @@
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1557467334395,
-            "changeTime": 1557467334395,
+            "size": 352,
+            "modifiedTime": 1557468009521,
+            "changeTime": 1557468009521,
             "isWorkspace": false,
-            "contentHash": "57cc1553f6db62b769f73d65e597f1d8ab5a7446"
+            "contentHash": "30cc5ba3ce225e28a0b3ce9cb31101c032dcc26e"
         }
     ],
     [
@@ -867,27 +867,27 @@
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_comp_event_2/lwc_comp_event_2.html",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_comp_event_2/lwc_comp_event_2.html",
             "isDirectory": false,
-            "size": 657,
-            "modifiedTime": 1557423550211,
-            "changeTime": 1557423550211,
-            "contentHash": "eae61b964b39d4684aa25ae08ecf67a643d42f7f",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 494,
+            "modifiedTime": 1557468319488,
+            "changeTime": 1557468319488,
+            "contentHash": "f243327bafb54b72371c19ee05a2209a117ed07f"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_comp_event_2/lwc_comp_event_2.js",
         {
+            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_comp_event_2/lwc_comp_event_2.js",
             "isDirectory": false,
-            "size": 481,
-            "modifiedTime": 1557423569131,
-            "changeTime": 1557423569131,
-            "contentHash": "b659a9571f983280a8d2ff31c7dced4cd484951f",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 209,
+            "modifiedTime": 1557468323528,
+            "changeTime": 1557468323528,
+            "contentHash": "5542d885a32462eb66c34aa328d8060c16a37f8a"
         }
     ],
     [
@@ -945,105 +945,248 @@
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1557467358003,
             "changeTime": 1557467358003,
-            "contentHash": "ee9a78f3576a232ab68b85d62c38ceae55a13299"
+            "contentHash": "ee9a78f3576a232ab68b85d62c38ceae55a13299",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1557467334397,
             "changeTime": 1557467334397,
-            "contentHash": "05b06a81157df795f71c80ae8d9c010e443c83e3"
+            "contentHash": "05b06a81157df795f71c80ae8d9c010e443c83e3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler/lwc_to_aura_handler.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler/lwc_to_aura_handler.cmp",
             "isDirectory": false,
+            "size": 678,
+            "modifiedTime": 1557467755786,
+            "changeTime": 1557467755786,
+            "contentHash": "c02d758e9bd2d292391a889ed5614dea918984ac",
             "isMetadataFile": false,
-            "size": 668,
-            "modifiedTime": 1557467662420,
-            "changeTime": 1557467662420,
-            "contentHash": "cc7ca7004ffb3a13345369364ba06ef076efba45"
+            "state": "u"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler/lwc_to_aura_handler.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler/lwc_to_aura_handler.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 251,
             "modifiedTime": 1557467346286,
             "changeTime": 1557467346286,
-            "contentHash": "c7855eb4441533190206471c752e31bb094547bd"
+            "contentHash": "c7855eb4441533190206471c752e31bb094547bd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler/lwc_to_aura_handlerController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/aura/lwc_to_aura_handler/lwc_to_aura_handlerController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 243,
             "modifiedTime": 1557467614792,
             "changeTime": 1557467614792,
-            "contentHash": "85070ad6e115ded57203610d6b1227a167404096"
+            "contentHash": "85070ad6e115ded57203610d6b1227a167404096",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher/lwc_to_aura_publisher.html",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher/lwc_to_aura_publisher.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 447,
             "modifiedTime": 1557467540479,
             "changeTime": 1557467540479,
-            "contentHash": "e7b41fbbb4b81b6b28bef852a635ccce1a637181"
+            "contentHash": "e7b41fbbb4b81b6b28bef852a635ccce1a637181",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher/lwc_to_aura_publisher.js",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher/lwc_to_aura_publisher.js",
             "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1557467747983,
+            "changeTime": 1557467747983,
+            "contentHash": "42767252491589a2393effdf25ab33c9f3d3562d",
             "isMetadataFile": false,
-            "size": 327,
-            "modifiedTime": 1557467541763,
-            "changeTime": 1557467541763,
-            "contentHash": "7295c1b76d4d69c3655964237b770fd13421bfdd"
+            "state": "u"
         }
     ],
     [
         "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher/lwc_to_aura_publisher.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_aura_publisher/lwc_to_aura_publisher.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 236,
             "modifiedTime": 1557467334397,
             "changeTime": 1557467334397,
-            "contentHash": "299202e6eaf3553baf32af702c54acb7961576b4"
+            "contentHash": "299202e6eaf3553baf32af702c54acb7961576b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1557467959551,
+            "changeTime": 1557467959551,
+            "contentHash": "8dab59d7b59c14164574b06d5a499b9dd71ae003"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1557467932098,
+            "changeTime": 1557467932098,
+            "contentHash": "dbc7bfac622e1defbf616a59638fea6d14eecc23"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/pubsub",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/pubsub",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1557468052284,
+            "changeTime": 1557468052284,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler/lwc_to_lwc_handler.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler/lwc_to_lwc_handler.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 372,
+            "modifiedTime": 1557468342463,
+            "changeTime": 1557468342463,
+            "contentHash": "c24475b794847e2034cb31a646d066ed3daae05c"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler/lwc_to_lwc_handler.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler/lwc_to_lwc_handler.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1557468247040,
+            "changeTime": 1557468247040,
+            "contentHash": "bd71d7757b786be710c24517e98d1b17158377fe"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler/lwc_to_lwc_handler.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_handler/lwc_to_lwc_handler.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1557468358402,
+            "changeTime": 1557468358402,
+            "contentHash": "9ca6450c364bf08ae2a7fdf8b884eede1d2acc82"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher/lwc_to_lwc_publisher.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher/lwc_to_lwc_publisher.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 432,
+            "modifiedTime": 1557468445129,
+            "changeTime": 1557468445129,
+            "contentHash": "1c60e8d159e43b227fb535f619dec4901b3df610"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher/lwc_to_lwc_publisher.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher/lwc_to_lwc_publisher.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 366,
+            "modifiedTime": 1557468506898,
+            "changeTime": 1557468506898,
+            "contentHash": "2241af30b9f4c4d4ba82300052d82e6727066bc8"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher/lwc_to_lwc_publisher.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/lwc_to_lwc_publisher/lwc_to_lwc_publisher.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 307,
+            "modifiedTime": 1557468365131,
+            "changeTime": 1557468365131,
+            "contentHash": "74869048b6b9939f656e969f3efdb738f1b8fc8a"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/pubsub/pubsub.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/pubsub/pubsub.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3094,
+            "modifiedTime": 1557468039567,
+            "changeTime": 1557468039567,
+            "contentHash": "72491d470ed1706286ed61415c37d9c720d414dd"
+        }
+    ],
+    [
+        "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/pubsub/pubsub.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vishnukumar/Desktop/workspace/LWC_Aura_Events_PubSub_Jaipur_Meetup_11_May_2019/force-app/main/default/lwc/pubsub/pubsub.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1557468009523,
+            "changeTime": 1557468009523,
+            "contentHash": "1061aef2761c09db5489ef2c8cf4a7e284627a5d"
         }
     ]
 ]
