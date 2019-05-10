@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
-        <application>Jaipur_Dev_MeetupEvents</application>
+        <application>Demystifying_Events</application>
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
@@ -17,7 +17,23 @@
     </applicationVisibilities>
     <custom>true</custom>
     <tabVisibilities>
+        <tab>Aura_Application_Events</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Aura_Component_Events</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>LWC_Aura_PubSub_Events</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>LWC_Component_Events</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>LWC_LWC_PubSub_Events</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

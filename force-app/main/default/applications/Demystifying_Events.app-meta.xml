@@ -11,6 +11,10 @@
     <label>Demystifying Events</label>
     <navType>Standard</navType>
     <tabs>Aura_Component_Events</tabs>
+    <tabs>Aura_Application_Events</tabs>
+    <tabs>LWC_Component_Events</tabs>
+    <tabs>LWC_LWC_PubSub_Events</tabs>
+    <tabs>LWC_Aura_PubSub_Events</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Jaipur_Dev_Meetup_Events_UtilityBar</utilityBar>
 </CustomApplication>

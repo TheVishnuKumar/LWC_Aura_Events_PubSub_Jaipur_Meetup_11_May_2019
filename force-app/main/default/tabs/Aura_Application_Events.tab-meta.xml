@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Created by Lightning App Builder</description>
+    <flexiPage>Aura_Application_Events</flexiPage>
+    <label>Aura Application Events</label>
+    <mobileReady>false</mobileReady>
+    <motif>Custom74: Hot Air Balloon</motif>
+</CustomTab>
