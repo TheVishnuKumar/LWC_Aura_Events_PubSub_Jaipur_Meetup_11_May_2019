@@ -3,6 +3,9 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
+            "c/auraPubsub": [
+                "auraPubsub/auraPubsub.js"
+            ],
             "c/lwc_comp_event_1": [
                 "lwc_comp_event_1/lwc_comp_event_1.js"
             ],
@@ -15,20 +18,17 @@
             "c/lwc_to_aura_publisher": [
                 "lwc_to_aura_publisher/lwc_to_aura_publisher.js"
             ],
-            "c/lwc_to_lwc_publisher": [
-                "lwc_to_lwc_publisher/lwc_to_lwc_publisher.js"
+            "c/lwc_to_aura_pubsub_publisher": [
+                "lwc_to_aura_pubsub_publisher/lwc_to_aura_pubsub_publisher.js"
             ],
             "c/lwc_to_lwc_handler": [
                 "lwc_to_lwc_handler/lwc_to_lwc_handler.js"
             ],
+            "c/lwc_to_lwc_publisher": [
+                "lwc_to_lwc_publisher/lwc_to_lwc_publisher.js"
+            ],
             "c/pubsub": [
                 "pubsub/pubsub.js"
-            ],
-            "c/auraPubsub": [
-                "auraPubsub/auraPubsub.js"
-            ],
-            "c/lwc_to_aura_pubsub_publisher": [
-                "lwc_to_aura_pubsub_publisher/lwc_to_aura_pubsub_publisher.js"
             ]
         }
     },
